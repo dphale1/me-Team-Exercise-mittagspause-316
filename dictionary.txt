@@ -1,8 +1,8 @@
 – Raesfeld
 – Flughafen (Airport)  ##USED ON LINE 1
-– Berlin
-– Bratwurst (Grilled sausage)
-– Hauptstrasse (Main street)
+– Berlin ##USED ON LINE 2
+– Bratwurst (Grilled sausage) ##USED ON LINE 2
+– Hauptstrasse (Main street) ##USED ON LINE 2
 – Brot (Bread)
 – Klimaanlage (Air conditioning)
 – Rammstein (German band)  ##USED ON LINE 1
