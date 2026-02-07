@@ -8,5 +8,5 @@ Spencer Marean: [https://github.com/dreynolds5/verschnaufpause\_StoryTime/pull/4
 
 Austin Hale: https://github.com/oltabo/The\_Hunds/pull/2
 
-Daniel Andrews: <>
+Daniel Andrews: <https://github.com/dreynolds5/verschnaufpause_StoryTime/pull/9>
 
